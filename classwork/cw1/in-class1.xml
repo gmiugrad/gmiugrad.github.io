@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letter>
+    <head>
+        <image size="small" content="Aspen Logo" width="300px" height="500px"/>
+        <name>The Aspen Companies</name>
+    </head>
+    <title>A Personal Letter From Steve Martin</title>
+        <greeting>Dear Jenny</greeting>
+        <paragraph>What a pleasure it was to recieve a letter from you. Although my schedule is very busy, I decided to take time out to write you a personal reply.</paragraph>
+        <paragraph>Too often performers lose contact with their audience and begin to take them for granted, but I don't think that will ever happen to me, will it Jenny? I don't know when I'll be appeading close to you, but keep that extra bunk made up in case I get to Flint.</paragraph>
+        <signature> Sincerely, Steve Martin</signature>
+        <postscript>I'll always cherish that afternoon we spent together in Rio, walking along the beach, looking at rocks.</postscript>
+</letter>
