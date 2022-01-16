@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe>
+    <background> 
+        <image size="large" content="Styled Apple Frangipane Tart" width="2550px" height="3300px"/>
+        <name> Recipe Photo </name>
+    </background>
+        <header_description> The sweet frangipane filling with almonds is a lovely addition and really brings these little tarts to whole new flavour level. </header_description> 
+        <author> 
+            <name> Shibani </name>   
+            <username> Pealsofeast </username>
+        </author>
+    <recipe_name> Apple Frangipane </recipe_name>
+        <ingredients> 
+            3/ 4 cup almond meal
+            1 1/2. tbsp plain flour
+            1/ 4 cup sugar
+            sog unsalted butter
+            1largeegg
+            1/2 tsp vanilla extract
+            2 sheets of puff pastry
+            2 to 3 apples sliced
+            extra butter melted and 1 tbsp sugar
+        </ingredients>
+        <step1>
+            Preheat the oven to 200°C. Place the pastry 
+            on a lined oven tray to thaw. Cut 1 sheet into 
+            4 squares and prick all over with a fork to 
+            stop it puffing up too much and other one I 
+            choose to have it as a round circle.   
+        </step1>
+         <step2>
+             For frangipane filling, cream the sugar
+             and butter together until light. Add egg
+             and mix to combine. Finally add the
+             almonds, extract to combine   
+         </step2>
+         <step3>
+             Spread the frangipane evenly into the
+             puff pastry sheets leaving 1 cm from the
+             edges. Arrange the apples slices in a
+             pretty petal pattern.
+         </step3>
+         <step4>
+             Brush with melted butter and sprinkle
+             with the extra sugar. Bake for about 20-25
+             minutes till the pastry is puffed and
+             golden around the edges.
+             Drizzle with honey and serve with dollop
+             of double cream. 
+         </step4>
+</Recipe>
