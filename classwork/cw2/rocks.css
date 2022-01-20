@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    border-style: dotted;
+    text-align: center;
+}
+div.available { 
+    border-style: double;
+    
+}
+
+h2 {
+    color: green;
+    border-style: dashed;
+    text-align: center;
+}
+
+span.tagline {
+    border-style: double;
+    background-color: aqua;
+    
+}
+
+body {
+    margin: 25px 50px 75px 100px;
+    
+}
