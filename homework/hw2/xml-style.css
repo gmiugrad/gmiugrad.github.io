@@ -1,6 +1,6 @@
 @font-face{
     font-family: Leander;
-    src: url(/hw2/Leander.tff);
+    src: url(/homeowork/hw2/Leander.tff);
 }
 
 * {
@@ -39,6 +39,6 @@ lb {
 }
 
 space[quantity="1"] {padding:10px;}
-space[quantity="3"] {padding:50px;}
-space[quantity="4"] {padding:50px;}
+space[quantity="3"] {padding:30px;}
+space[quantity="4"] {padding:40px;}
 space[quantity="5"] {padding:50px;}
