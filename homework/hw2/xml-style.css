@@ -46,7 +46,7 @@ docDate:after {
       expan {
       	color: transparent;
       	position: relative;
-      }
+         }
 
 space[quantity="1"] {padding:10px;}
 space[quantity="3"] {padding:30px;}
