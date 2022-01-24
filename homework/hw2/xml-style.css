@@ -38,6 +38,16 @@ lb {
     font-size: 225%;
 }
 
+docDate:after {
+    content: attr(when);
+    color: black;
+    position: relative;
+      }
+      expan {
+      	color: transparent;
+      	position: relative;
+      }
+
 space[quantity="1"] {padding:10px;}
 space[quantity="3"] {padding:30px;}
 space[quantity="4"] {padding:40px;}
