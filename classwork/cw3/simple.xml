@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disneyworld>
+    <themepark>
+        <name>Magic Kingdom</name><!-- This is the main theme park here and the one with the castle.-->
+        <rides>
+            <ride type="rollercoaster">Thunder Mountain</ride>
+            <ride type="boat">Splash Mountain</ride>
+            <ride type="rollercoaster">Space Mountain</ride>
+            <ride type="boat">It's a Small World</ride>
+            <ride>Teacups</ride>
+            <ride>Dumbo</ride>
+            <ride type="boat">Pirates of the Carribean</ride>
+            <ride>Haunted Mansion</ride>
+            <ride>Country Bear Jamboree</ride>
+            <ride>Stitch's Great Escape</ride>
+            <ride>Swiss Family Treehouse</ride>
+            <ride>Carousel of Progress</ride>
+            <ride>Prince Charming's Carousel</ride>
+            <ride>Walt Disney World Railroad</ride>
+            <ride>Hall of Presidents</ride>
+            <ride>The Magic Carpets of Aladdin</ride>
+            <ride type="rollercoaster">The Barnstormer</ride>
+            <ride>Under The Sea ~ Journey of the Little Mermaid</ride>
+            <ride>Buzz Lightyear’s Space Ranger Spin</ride>
+            <ride>Tomorrowland Transit Authority PeopleMover</ride>
+            <ride>Mickey’s PhilharMagic</ride>
+            <ride>The Many Adventures of Winnie the Pooh</ride>
+            <ride type="boat">Jungle Cruise</ride>
+            <ride>Peter Pan’s Flight</ride>
+            <ride>Monsters, Inc. Laugh Floor</ride>
+            <ride type="rollercoaster">Seven Dwarfs Mine Train</ride>
+        </rides>
+        <hotels>
+            <hotel>Grand Floridian</hotel>
+            <hotel>Contemporary</hotel>
+            <hotel>Polynesian</hotel>
+        </hotels>
+    </themepark>
+    <themepark>
+        <name>EPCOT</name>
+        <rides>
+            <ride>Journey into Imagination with Figment</ride>
+            <ride>The Seas</ride>
+            <ride>Gran Fiesta Tour Starring The Three Caballeros</ride>
+            <ride type="boat">Living With The Land</ride>
+            <ride>Turtle Talk With Crush</ride>
+            <ride>Mission: SPACE</ride>
+            <ride>Spaceship Earth</ride>
+            <ride type="boat">Frozen Ever After</ride>
+            <ride type="rollercoaster">Test Track</ride>
+            <ride>Soarin'</ride>
+        </rides>
+        <hotels>
+            <hotel>Swan</hotel>
+            <hotel>Dolphin</hotel>
+            <hotel>Carribean Beach</hotel>
+        </hotels>
+    </themepark>
+    <themepark>
+        <name>Animal Kingdom</name>
+        <rides>
+            <ride>TriceraTop Spin</ride>
+            <ride>Primeval Whirl</ride>
+            <ride>It’s Tough to be a Bug!</ride>
+            <ride>DINOSAUR</ride>
+            <ride type="boat">Kali River Rapids</ride>
+            <ride>Kilimanjaro Safaris</ride>
+            <ride type="rollercoaster">Expedition Everest - Legend of the Forbidden Mountain</ride>
+        </rides>
+        <hotels>
+            <hotel>Animal Kingdom Lodge</hotel>
+        </hotels>
+    </themepark>
+    <themepark>
+        <name>Hollywood Studios</name>
+        <rides>
+            <ride>Muppet*Vision 3D</ride>
+            <ride type="rollercoaster">Rock ‘n’ Roller Coaster Starring Aerosmith</ride>
+            <ride>Star Tours — The Adventure Continues</ride>
+            <ride>Toy Story Mania!</ride>
+            <ride>The Twilight Zone Tower of Terror</ride>
+            <ride>The Great Movie Ride</ride>
+        </rides>
+        <hotels>
+            <hotel>All-Star</hotel>
+            <hotel>Art of Animation</hotel>
+        </hotels>
+    </themepark>
+</disneyworld>
