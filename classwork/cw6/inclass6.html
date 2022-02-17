@@ -1,0 +1,11 @@
+<ol>
+  <li>How many chapters are in each book?
+  <chapter-count>{count($x/TEI/text//div[@type="chapter"])}</chapter-count>
+  </li>
+  <li>How many paragraphs are in each book?
+  <paragraph-count>{count($x/TEI/text//div/p)}</paragraph-count>
+  </li>
+  <li>Which book has the most pages?
+  <page-count>{count($x/TEI/text//pb)}</page-count>
+  </li>
+  </ol>
